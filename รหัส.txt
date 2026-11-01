@@ -1,0 +1,17 @@
+ช่าง
+barber1
+barberjoke1
+
+barber2
+barberskull
+
+barber3
+barberpanther
+
+บัญชีทดสอบ
+betatester
+test1234
+
+บัญชี admin
+kondanai
+captan2548
